@@ -10,7 +10,6 @@ const projects = [
       "A machine learning-based system that recognizes and interprets hand gestures into sign language in real-time, improving accessibility and communication.",
     image: "/projects/Sign-Sense.png",
     tags: ["Python", "Machine Learning", "OpenCV", "AI"],
-    link: "#",
     github: "https://github.com/Ak9591/sign-sense",
   },
   {
@@ -19,7 +18,6 @@ const projects = [
       "A predictive model that analyzes environmental data to determine water quality, using statistical analysis and data visualization for better decision-making.",
     image: "/projects/Water-quality.png",
     tags: ["Python", "Data Analysis", "ML", "Visualization"],
-    link: "#",
     github: "https://github.com/Ak9591/Water-quality-prediction",
   },
   {
@@ -28,7 +26,6 @@ const projects = [
       "A Python-based virtual assistant capable of performing tasks like web search, playing music, sending emails, and retrieving information using voice commands.",
     image: "/projects/virtual-assistant.png",
     tags: ["Python", "Speech Recognition", "AI", "Automation"],
-    link: "#",
     github: "https://github.com/Ak9591/voice-assistant",
   },
   {
@@ -37,7 +34,6 @@ const projects = [
       "A social media web application built with React.js, allowing users to create posts, like, and comment with a responsive and user-friendly interface.",
     image: "/projects/Interact-IQ.png",
     tags: ["React", "JavaScript", "JSON Server", "Frontend"],
-    link: "#",
     github: "https://github.com/Ak9591/BroadIn",
   },
   {
@@ -46,7 +42,6 @@ const projects = [
       "A frontend clone of LinkedIn built using HTML, CSS, and JavaScript, replicating core UI features like profiles and post interactions.",
     image: "/projects/Linkedin-clone.png",
     tags: ["HTML", "CSS", "JavaScript", "UI/UX"],
-    link: "#",
     github: "https://github.com/Ak9591/LinkedIn-Clone-",
   },
 ];
