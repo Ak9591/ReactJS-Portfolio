@@ -28,7 +28,7 @@ export const Footer = () => {
               AK<span className="text-primary">.</span>
             </a>
             <p className="text-sm text-muted-foreground mt-2">
-              © {currentYear} Akshata s. All rights reserved.
+              © {currentYear} Akshata S. All rights reserved.
             </p>
           </div>
 
